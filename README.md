@@ -1,0 +1,2 @@
+# AuthorizationServerDjango
+Usando OpenID connect
